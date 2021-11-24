@@ -12,7 +12,7 @@ int main(){
     for(int i=0; i<n; i++){
         cin >> num;
         raiz = sqrt(num);
-    	cout << fixed << setprecision (4);
+    	cout << fixed << setprecision (4); //raiz quadrada porem escolhendo a precisão do resultado da raiz, ae no caso foi de 4 , mas poderia ser de qualquer outro numero
         cout << raiz << endl ;
 }
 
