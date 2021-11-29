@@ -2,6 +2,7 @@
 using namespace std;
 int main (){
 
+    // premio do milhao
     int sequencia,numero,maior,cont=0,resposta;
 
     cin >> sequencia ;
