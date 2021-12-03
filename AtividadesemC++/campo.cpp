@@ -6,7 +6,8 @@ int main(){
     int campo[55];
 
     cin >> N;
-
+    
+    // aq o campo entra num for
     for (int i=0;i<N;i++){
          cin >> campo[i];
     }
