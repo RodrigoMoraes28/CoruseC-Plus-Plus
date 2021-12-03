@@ -22,7 +22,7 @@ int main(){
         if(i>0){
         quantidade = quantidade +campo [i-1];
     }
-        cout << quantidade << endl;
+        cout << quantidade << endl; //aq imprime a quantidade
 
     }
 
