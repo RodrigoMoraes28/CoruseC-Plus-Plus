@@ -11,6 +11,7 @@ int main(){
     for (int i=0;i<N;i++){
          cin >> campo[i];
     }
+    //aq verifica a quantidade
     for (int i=0;i<N;i++){
         int quantidade = 0;
         quantidade = quantidade +campo [i];
