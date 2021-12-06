@@ -5,7 +5,7 @@ int main(){
     //iniciando variaveis
     
     int N;
-    int campo[55];
+    int campo[55]; //vetor de int
 
     cin >> N;
     
