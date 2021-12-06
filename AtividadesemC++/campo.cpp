@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 int main(){
+    
     //iniciando variaveis
     int N;
     int campo[55];
